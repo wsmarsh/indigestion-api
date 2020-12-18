@@ -1,0 +1,4 @@
+src/.vs
+*.csproj.user
+bin
+obj
